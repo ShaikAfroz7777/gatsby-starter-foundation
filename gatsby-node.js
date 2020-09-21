@@ -14,6 +14,7 @@ allMarkdownRemark(sort: { fields: [frontmatter___date], order: [DESC] }){
           node {
             id
             frontmatter {
+              date(formatString: "MMMM DD, YYYY")
               slug
               template
               title
