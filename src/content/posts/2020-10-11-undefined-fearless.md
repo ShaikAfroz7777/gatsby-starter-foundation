@@ -4,7 +4,7 @@ title: UNDEFINED  FEARLESS
 slug: /undefined-fearless
 date: 2020-10-11 15:41
 description: UNDEFINED  FEARLESS
-featuredImage: /assets/mario-dobelmann-nlkq4safcjs-unsplash.jpg
+featuredImage: /assets/whatsapp-image-2020-10-11-at-3.59.46-pm.jpeg
 ---
 All the atmosphere was calm Stephen don't know what will be happening he was confusion about Alaya's words. Finally, Alaya came near to Stephen and start talking about the past of their ancestors. " Stephen is the son of our King "Jordan " and his wife Rasika and his son Stephen who was a baby He was a good-hearted king, he always spend with animals and also know their languages mostly he loves his childhood friend Saliya which was snake. She is the queen of the "Jordan forest" top of the head Which contains a precious diamond stone. One fine day King Jordan was meeting with ministers and they are planning about kingdom development. which is useful to all peoples who were living in a kingdom. At that time one minister whose name is Michelle who was living beside the forest. Michelle said dear magistry in my place all the people were worried about the forest snakes they are coming to our houses and they start leaving with us for reasons. We are all worried about this situation children so scary about the snake. And one snake bites to my neighbor's son who was died and also biting all the people in a kingdom So my magistry please save us my lord with fear of their snakes. Jordan said don't worry about the snake I will handle it and also my promise.
 
