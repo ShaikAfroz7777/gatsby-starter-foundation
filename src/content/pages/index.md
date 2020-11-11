@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Aaravs Afroz
 tagline: Blogger
-featuredImage: /assets/profile.jpg
+featuredImage: /assets/face.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
